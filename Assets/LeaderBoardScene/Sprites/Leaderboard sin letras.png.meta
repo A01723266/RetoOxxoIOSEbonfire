@@ -1,0 +1,6269 @@
+fileFormatVersion: 2
+guid: f021d63665c1c37428302b0631e6e188
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8362244826142329474
+    second: Leaderboard sin letras_0
+  - first:
+      213: 3694604879080117486
+    second: Leaderboard sin letras_1
+  - first:
+      213: -2703647102610775563
+    second: Leaderboard sin letras_2
+  - first:
+      213: -2604120331558150136
+    second: Leaderboard sin letras_3
+  - first:
+      213: 854072508643760714
+    second: Leaderboard sin letras_4
+  - first:
+      213: -4580770669558832706
+    second: Leaderboard sin letras_5
+  - first:
+      213: -7849458220846459975
+    second: Leaderboard sin letras_6
+  - first:
+      213: -3993846917703920238
+    second: Leaderboard sin letras_7
+  - first:
+      213: 6997204622641118838
+    second: Leaderboard sin letras_8
+  - first:
+      213: 9051313334541505224
+    second: Leaderboard sin letras_9
+  - first:
+      213: 6506306045055684507
+    second: Leaderboard sin letras_10
+  - first:
+      213: -2130103043845679849
+    second: Leaderboard sin letras_11
+  - first:
+      213: 551788157162896462
+    second: Leaderboard sin letras_12
+  - first:
+      213: -5029964741553230630
+    second: Leaderboard sin letras_13
+  - first:
+      213: -7047484069292671753
+    second: Leaderboard sin letras_14
+  - first:
+      213: 194968110980754484
+    second: Leaderboard sin letras_15
+  - first:
+      213: -7883591531346611643
+    second: Leaderboard sin letras_16
+  - first:
+      213: 1448714855524919526
+    second: Leaderboard sin letras_17
+  - first:
+      213: -5295688647034529594
+    second: Leaderboard sin letras_18
+  - first:
+      213: 3606370007542574095
+    second: Leaderboard sin letras_19
+  - first:
+      213: 3521684227906716409
+    second: Leaderboard sin letras_20
+  - first:
+      213: -3576886551369126993
+    second: Leaderboard sin letras_21
+  - first:
+      213: 523385105669785297
+    second: Leaderboard sin letras_22
+  - first:
+      213: -7934204520457777748
+    second: Leaderboard sin letras_23
+  - first:
+      213: 7273612660694839748
+    second: Leaderboard sin letras_24
+  - first:
+      213: 634773308194407693
+    second: Leaderboard sin letras_25
+  - first:
+      213: 7835193188713398447
+    second: Leaderboard sin letras_26
+  - first:
+      213: -5361021654973626705
+    second: Leaderboard sin letras_27
+  - first:
+      213: -8134940712515745181
+    second: Leaderboard sin letras_28
+  - first:
+      213: -7296588755535682777
+    second: Leaderboard sin letras_29
+  - first:
+      213: 1795278090255835865
+    second: Leaderboard sin letras_30
+  - first:
+      213: 6181453389006947384
+    second: Leaderboard sin letras_31
+  - first:
+      213: -2806743590075724724
+    second: Leaderboard sin letras_32
+  - first:
+      213: 4130701117931287050
+    second: Leaderboard sin letras_33
+  - first:
+      213: -8347695660258406058
+    second: Leaderboard sin letras_34
+  - first:
+      213: 1067343818750015917
+    second: Leaderboard sin letras_35
+  - first:
+      213: -268635623689430088
+    second: Leaderboard sin letras_36
+  - first:
+      213: -2074485948588076395
+    second: Leaderboard sin letras_37
+  - first:
+      213: 3472163515817638296
+    second: Leaderboard sin letras_38
+  - first:
+      213: 6943032136100729976
+    second: Leaderboard sin letras_39
+  - first:
+      213: 2544110386957678132
+    second: Leaderboard sin letras_40
+  - first:
+      213: -5020056549948756180
+    second: Leaderboard sin letras_41
+  - first:
+      213: 6701414932044537604
+    second: Leaderboard sin letras_42
+  - first:
+      213: -1149138686563984615
+    second: Leaderboard sin letras_43
+  - first:
+      213: -2051086680960643730
+    second: Leaderboard sin letras_44
+  - first:
+      213: 4377094051062695241
+    second: Leaderboard sin letras_45
+  - first:
+      213: -7408548372485074676
+    second: Leaderboard sin letras_46
+  - first:
+      213: -1732979536183946838
+    second: Leaderboard sin letras_47
+  - first:
+      213: -4120483809573791980
+    second: Leaderboard sin letras_48
+  - first:
+      213: -9086359066334403722
+    second: Leaderboard sin letras_49
+  - first:
+      213: 8319054861639145104
+    second: Leaderboard sin letras_50
+  - first:
+      213: 5425932473218281088
+    second: Leaderboard sin letras_51
+  - first:
+      213: -7030070233759011195
+    second: Leaderboard sin letras_52
+  - first:
+      213: 3443273117604409059
+    second: Leaderboard sin letras_53
+  - first:
+      213: 6401475781646835453
+    second: Leaderboard sin letras_54
+  - first:
+      213: 4531315113375420009
+    second: Leaderboard sin letras_55
+  - first:
+      213: 8455955120329662535
+    second: Leaderboard sin letras_56
+  - first:
+      213: 5641469892009389345
+    second: Leaderboard sin letras_57
+  - first:
+      213: 7413014468861808658
+    second: Leaderboard sin letras_58
+  - first:
+      213: -6313892416959208195
+    second: Leaderboard sin letras_59
+  - first:
+      213: -7426280175866884950
+    second: Leaderboard sin letras_60
+  - first:
+      213: -1799068575021110971
+    second: Leaderboard sin letras_61
+  - first:
+      213: 4508340761689022517
+    second: Leaderboard sin letras_62
+  - first:
+      213: 4004413310476230003
+    second: Leaderboard sin letras_63
+  - first:
+      213: 8635321579714846760
+    second: Leaderboard sin letras_64
+  - first:
+      213: 1046470044181301802
+    second: Leaderboard sin letras_65
+  - first:
+      213: -1533184455752214782
+    second: Leaderboard sin letras_66
+  - first:
+      213: -1444120022926568911
+    second: Leaderboard sin letras_67
+  - first:
+      213: -5820487389547094522
+    second: Leaderboard sin letras_68
+  - first:
+      213: -8866066381367046112
+    second: Leaderboard sin letras_69
+  - first:
+      213: 612846747037896804
+    second: Leaderboard sin letras_70
+  - first:
+      213: -6646092831532508601
+    second: Leaderboard sin letras_71
+  - first:
+      213: 2471588845295483362
+    second: Leaderboard sin letras_72
+  - first:
+      213: 4165064739506373151
+    second: Leaderboard sin letras_73
+  - first:
+      213: 5780097742425389632
+    second: Leaderboard sin letras_74
+  - first:
+      213: 7163559736089345739
+    second: Leaderboard sin letras_75
+  - first:
+      213: 7980993831705198848
+    second: Leaderboard sin letras_76
+  - first:
+      213: -4242480359149455573
+    second: Leaderboard sin letras_77
+  - first:
+      213: -2771273876239339111
+    second: Leaderboard sin letras_78
+  - first:
+      213: -4338551034958419417
+    second: Leaderboard sin letras_79
+  - first:
+      213: 14818143589688233
+    second: Leaderboard sin letras_80
+  - first:
+      213: -946341823354965922
+    second: Leaderboard sin letras_81
+  - first:
+      213: 7808414087078939314
+    second: Leaderboard sin letras_82
+  - first:
+      213: 4173960177215817215
+    second: Leaderboard sin letras_83
+  - first:
+      213: 1358964324328586934
+    second: Leaderboard sin letras_84
+  - first:
+      213: -2950700834661979820
+    second: Leaderboard sin letras_85
+  - first:
+      213: 4592000812347001454
+    second: Leaderboard sin letras_86
+  - first:
+      213: 4689436916697291076
+    second: Leaderboard sin letras_87
+  - first:
+      213: -6849777399827170447
+    second: Leaderboard sin letras_88
+  - first:
+      213: -6425673243835992216
+    second: Leaderboard sin letras_89
+  - first:
+      213: -2318748454246415347
+    second: Leaderboard sin letras_90
+  - first:
+      213: 5730674423165870440
+    second: Leaderboard sin letras_91
+  - first:
+      213: -5118284185742625470
+    second: Leaderboard sin letras_92
+  - first:
+      213: 3391509796632566843
+    second: Leaderboard sin letras_93
+  - first:
+      213: -2988194071953971611
+    second: Leaderboard sin letras_94
+  - first:
+      213: -1969128620136530086
+    second: Leaderboard sin letras_95
+  - first:
+      213: -1782048863873152460
+    second: Leaderboard sin letras_96
+  - first:
+      213: 4143122285303323006
+    second: Leaderboard sin letras_97
+  - first:
+      213: 7400619106850176213
+    second: Leaderboard sin letras_98
+  - first:
+      213: 614496804501954113
+    second: Leaderboard sin letras_99
+  - first:
+      213: -1971799130688787609
+    second: Leaderboard sin letras_100
+  - first:
+      213: -2885711319665178180
+    second: Leaderboard sin letras_101
+  - first:
+      213: 6789998278791758837
+    second: Leaderboard sin letras_102
+  - first:
+      213: 2970010624675610030
+    second: Leaderboard sin letras_103
+  - first:
+      213: -8987965265590789192
+    second: Leaderboard sin letras_104
+  - first:
+      213: -1838378110886639460
+    second: Leaderboard sin letras_105
+  - first:
+      213: 6101522506580019947
+    second: Leaderboard sin letras_106
+  - first:
+      213: -4139286301027973274
+    second: Leaderboard sin letras_107
+  - first:
+      213: -8491820299050146641
+    second: Leaderboard sin letras_108
+  - first:
+      213: -1054543391407307295
+    second: Leaderboard sin letras_109
+  - first:
+      213: -1449483751078881776
+    second: Leaderboard sin letras_110
+  - first:
+      213: 8920978981585205509
+    second: Leaderboard sin letras_111
+  - first:
+      213: 6422137432276630897
+    second: Leaderboard sin letras_112
+  - first:
+      213: -6975325599544307202
+    second: Leaderboard sin letras_113
+  - first:
+      213: 6697482840280885242
+    second: Leaderboard sin letras_114
+  - first:
+      213: 8006359346897058138
+    second: Leaderboard sin letras_115
+  - first:
+      213: 2298336790332469352
+    second: Leaderboard sin letras_116
+  - first:
+      213: 3284548379174992858
+    second: Leaderboard sin letras_117
+  - first:
+      213: -6581807282372493940
+    second: Leaderboard sin letras_118
+  - first:
+      213: 3693874575566364939
+    second: Leaderboard sin letras_119
+  - first:
+      213: -5661970474482595509
+    second: Leaderboard sin letras_120
+  - first:
+      213: -8608214824205295708
+    second: Leaderboard sin letras_121
+  - first:
+      213: 5617077220646004585
+    second: Leaderboard sin letras_122
+  - first:
+      213: -7673100775104720546
+    second: Leaderboard sin letras_123
+  - first:
+      213: 8316795221896851696
+    second: Leaderboard sin letras_124
+  - first:
+      213: -1289667134822653908
+    second: Leaderboard sin letras_125
+  - first:
+      213: 4916682693961460647
+    second: Leaderboard sin letras_126
+  - first:
+      213: -713069351556619224
+    second: Leaderboard sin letras_127
+  - first:
+      213: 4857325639005523160
+    second: Leaderboard sin letras_128
+  - first:
+      213: 4351710395881140812
+    second: Leaderboard sin letras_129
+  - first:
+      213: -8460951438335291922
+    second: Leaderboard sin letras_130
+  - first:
+      213: 99886719699708953
+    second: Leaderboard sin letras_131
+  - first:
+      213: -3090344966660598121
+    second: Leaderboard sin letras_132
+  - first:
+      213: 6697558783199244056
+    second: Leaderboard sin letras_133
+  - first:
+      213: -7629729206909869724
+    second: Leaderboard sin letras_134
+  - first:
+      213: -3384155129304999140
+    second: Leaderboard sin letras_135
+  - first:
+      213: -3653525662402618005
+    second: Leaderboard sin letras_136
+  - first:
+      213: -7550261695079425841
+    second: Leaderboard sin letras_137
+  - first:
+      213: -3734682823955779776
+    second: Leaderboard sin letras_138
+  - first:
+      213: 7710431522679781104
+    second: Leaderboard sin letras_139
+  - first:
+      213: -1621465569632859593
+    second: Leaderboard sin letras_140
+  - first:
+      213: -5668559592608803997
+    second: Leaderboard sin letras_141
+  - first:
+      213: -3527768370016826214
+    second: Leaderboard sin letras_142
+  - first:
+      213: 1378690850508612732
+    second: Leaderboard sin letras_143
+  - first:
+      213: -1193244250248957209
+    second: Leaderboard sin letras_144
+  - first:
+      213: 5586968976628105411
+    second: Leaderboard sin letras_145
+  - first:
+      213: -1874642749606170474
+    second: Leaderboard sin letras_146
+  - first:
+      213: -1126168620160073396
+    second: Leaderboard sin letras_147
+  - first:
+      213: 7094882024779642182
+    second: Leaderboard sin letras_148
+  - first:
+      213: 8129117955282771931
+    second: Leaderboard sin letras_149
+  - first:
+      213: -5821758816617458574
+    second: Leaderboard sin letras_150
+  - first:
+      213: -2378928264066567101
+    second: Leaderboard sin letras_151
+  - first:
+      213: 3848956266445893656
+    second: Leaderboard sin letras_152
+  - first:
+      213: -4352149439405870841
+    second: Leaderboard sin letras_153
+  - first:
+      213: 8771851161479270873
+    second: Leaderboard sin letras_154
+  - first:
+      213: -8760687691979501714
+    second: Leaderboard sin letras_155
+  - first:
+      213: 7509081216184639577
+    second: Leaderboard sin letras_156
+  - first:
+      213: -855904307358170284
+    second: Leaderboard sin letras_157
+  - first:
+      213: -8893773870709162484
+    second: Leaderboard sin letras_158
+  - first:
+      213: 8652742604880994460
+    second: Leaderboard sin letras_159
+  - first:
+      213: -7383610985135939041
+    second: Leaderboard sin letras_160
+  - first:
+      213: 3361264522179563362
+    second: Leaderboard sin letras_161
+  - first:
+      213: -5392974532645074973
+    second: Leaderboard sin letras_162
+  - first:
+      213: -2016403018851379413
+    second: Leaderboard sin letras_163
+  - first:
+      213: -7772848752557170391
+    second: Leaderboard sin letras_164
+  - first:
+      213: -709838071062401771
+    second: Leaderboard sin letras_165
+  - first:
+      213: 7332563204664473057
+    second: Leaderboard sin letras_166
+  - first:
+      213: -3492713071023484988
+    second: Leaderboard sin letras_167
+  - first:
+      213: -2445975946717937400
+    second: Leaderboard sin letras_168
+  - first:
+      213: -8820491121074281708
+    second: Leaderboard sin letras_169
+  - first:
+      213: -9188611568352130175
+    second: Leaderboard sin letras_170
+  - first:
+      213: -4665674042084331370
+    second: Leaderboard sin letras_171
+  - first:
+      213: 2310922323117894405
+    second: Leaderboard sin letras_172
+  - first:
+      213: -4110304871268537615
+    second: Leaderboard sin letras_173
+  - first:
+      213: 4520728992380697423
+    second: Leaderboard sin letras_174
+  - first:
+      213: 3198288847918750882
+    second: Leaderboard sin letras_175
+  - first:
+      213: 6161820753197205517
+    second: Leaderboard sin letras_176
+  - first:
+      213: 1608723488663112365
+    second: Leaderboard sin letras_177
+  - first:
+      213: 7292852937993185016
+    second: Leaderboard sin letras_178
+  - first:
+      213: 3722335360545194119
+    second: Leaderboard sin letras_179
+  - first:
+      213: -3464880324645920228
+    second: Leaderboard sin letras_180
+  - first:
+      213: -963827339285846020
+    second: Leaderboard sin letras_181
+  - first:
+      213: 2305891871265314502
+    second: Leaderboard sin letras_182
+  - first:
+      213: -7363530510000808900
+    second: Leaderboard sin letras_183
+  - first:
+      213: -1099762233410319379
+    second: Leaderboard sin letras_184
+  - first:
+      213: 6745773131316368192
+    second: Leaderboard sin letras_185
+  - first:
+      213: -4118932245657315443
+    second: Leaderboard sin letras_186
+  - first:
+      213: -4090908023062601626
+    second: Leaderboard sin letras_187
+  - first:
+      213: -4664384169596149827
+    second: Leaderboard sin letras_188
+  - first:
+      213: 2171180759613293351
+    second: Leaderboard sin letras_189
+  - first:
+      213: -7043887355315652221
+    second: Leaderboard sin letras_190
+  - first:
+      213: 7700647182641801401
+    second: Leaderboard sin letras_191
+  - first:
+      213: 1599174645229988386
+    second: Leaderboard sin letras_192
+  - first:
+      213: 9113876875932540722
+    second: Leaderboard sin letras_193
+  - first:
+      213: -3982761714459099996
+    second: Leaderboard sin letras_194
+  - first:
+      213: 8505328562136404128
+    second: Leaderboard sin letras_195
+  - first:
+      213: -7112994104144641536
+    second: Leaderboard sin letras_196
+  - first:
+      213: 4760050182757272677
+    second: Leaderboard sin letras_197
+  - first:
+      213: -5850789329810006174
+    second: Leaderboard sin letras_198
+  - first:
+      213: 160510261113299575
+    second: Leaderboard sin letras_199
+  - first:
+      213: 3133221570698659827
+    second: Leaderboard sin letras_200
+  - first:
+      213: 1696446137649678519
+    second: Leaderboard sin letras_201
+  - first:
+      213: 6925023216110973853
+    second: Leaderboard sin letras_202
+  - first:
+      213: -4408399520235839591
+    second: Leaderboard sin letras_203
+  - first:
+      213: -4060575033861662376
+    second: Leaderboard sin letras_204
+  - first:
+      213: -631177306394603042
+    second: Leaderboard sin letras_205
+  - first:
+      213: -4593427640227588212
+    second: Leaderboard sin letras_206
+  - first:
+      213: -6435642792248015712
+    second: Leaderboard sin letras_207
+  - first:
+      213: -8028745621316776926
+    second: Leaderboard sin letras_208
+  - first:
+      213: 6410100009478176819
+    second: Leaderboard sin letras_209
+  - first:
+      213: 9042342216666954398
+    second: Leaderboard sin letras_210
+  - first:
+      213: 7254778530398207200
+    second: Leaderboard sin letras_211
+  - first:
+      213: 74163022604981847
+    second: Leaderboard sin letras_212
+  - first:
+      213: 7036432550820878949
+    second: Leaderboard sin letras_213
+  - first:
+      213: 9022628915614746597
+    second: Leaderboard sin letras_214
+  - first:
+      213: -5583807815224010244
+    second: Leaderboard sin letras_215
+  - first:
+      213: -2241591689145769069
+    second: Leaderboard sin letras_216
+  - first:
+      213: -6875473265977760778
+    second: Leaderboard sin letras_217
+  - first:
+      213: 1514149413812015106
+    second: Leaderboard sin letras_218
+  - first:
+      213: -8427256383526017453
+    second: Leaderboard sin letras_219
+  - first:
+      213: -6032588960076241428
+    second: Leaderboard sin letras_220
+  - first:
+      213: 6976289081829155463
+    second: Leaderboard sin letras_221
+  - first:
+      213: 4460088659424160432
+    second: Leaderboard sin letras_222
+  - first:
+      213: -2646366555972796126
+    second: Leaderboard sin letras_223
+  - first:
+      213: 4094163613614854809
+    second: Leaderboard sin letras_224
+  - first:
+      213: 2675100796218594472
+    second: Leaderboard sin letras_225
+  - first:
+      213: -7195329643011155171
+    second: Leaderboard sin letras_226
+  - first:
+      213: 7990231093788005787
+    second: Leaderboard sin letras_227
+  - first:
+      213: -435560047551670364
+    second: Leaderboard sin letras_228
+  - first:
+      213: 2637522961160451990
+    second: Leaderboard sin letras_229
+  - first:
+      213: -3878342922508727875
+    second: Leaderboard sin letras_230
+  - first:
+      213: 3361791399231136002
+    second: Leaderboard sin letras_231
+  - first:
+      213: 6768968691036922964
+    second: Leaderboard sin letras_232
+  - first:
+      213: 4673151207865190543
+    second: Leaderboard sin letras_233
+  - first:
+      213: 3078452335570101774
+    second: Leaderboard sin letras_234
+  - first:
+      213: -6629469479127130499
+    second: Leaderboard sin letras_235
+  - first:
+      213: -1646132935175266824
+    second: Leaderboard sin letras_236
+  - first:
+      213: 4593341177328514096
+    second: Leaderboard sin letras_237
+  - first:
+      213: -171056647532531393
+    second: Leaderboard sin letras_238
+  - first:
+      213: -7116315222687388116
+    second: Leaderboard sin letras_239
+  - first:
+      213: 6085238256767826619
+    second: Leaderboard sin letras_240
+  - first:
+      213: -584593875923903459
+    second: Leaderboard sin letras_241
+  - first:
+      213: 2431843853713706384
+    second: Leaderboard sin letras_242
+  - first:
+      213: 5984079984568201068
+    second: Leaderboard sin letras_243
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Leaderboard sin letras_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1378
+        width: 113
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7530fcb2a653fb80800000000000000
+      internalID: -8362244826142329474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1368
+        width: 315
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4defa009fd54330800000000000000
+      internalID: 3694604879080117486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_2
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1360
+        width: 622
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1eed2e847ba7ad0800000000000000
+      internalID: -2703647102610775563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_3
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1473
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800aa1d0b5e4cdbd0800000000000000
+      internalID: -2604120331558150136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1425
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a532aeb664adb00800000000000000
+      internalID: 854072508643760714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1425
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1ea639855dd60c0800000000000000
+      internalID: -4580770669558832706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_6
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1425
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b35d2b165f111390800000000000000
+      internalID: -7849458220846459975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1402
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29518fe73610398c0800000000000000
+      internalID: -3993846917703920238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ebe3118801b1160800000000000000
+      internalID: 6997204622641118838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_9
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1400
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c25a189589bc9d70800000000000000
+      internalID: 9051313334541505224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1402
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f458740ea0b4a50800000000000000
+      internalID: 6506306045055684507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1402
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7159990419a5072e0800000000000000
+      internalID: -2130103043845679849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_12
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1403
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c36fac76858a700800000000000000
+      internalID: 551788157162896462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1403
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adceafaa7b9f13ab0800000000000000
+      internalID: -5029964741553230630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1399
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcf591049e423e90800000000000000
+      internalID: -7047484069292671753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1403
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c6985c67aa4b200800000000000000
+      internalID: 194968110980754484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1400
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542bec3754bd79290800000000000000
+      internalID: -7883591531346611643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1399
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8e4684c7eda1410800000000000000
+      internalID: 1448714855524919526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_18
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1400
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c81078bb3fe186b0800000000000000
+      internalID: -5295688647034529594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_19
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1399
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ca23c1a666c0230800000000000000
+      internalID: 3606370007542574095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_20
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1402
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2c97785298fd030800000000000000
+      internalID: 3521684227906716409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_21
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1399
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab65c7f1a85c5ec0800000000000000
+      internalID: -3576886551369126993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_22
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1403
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d68d280bff634700800000000000000
+      internalID: 523385105669785297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1330
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadc0de960b04e190800000000000000
+      internalID: -7934204520457777748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1351
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1ff7a7d2011f460800000000000000
+      internalID: 7273612660694839748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1328
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05c3dbe5fa2fc800800000000000000
+      internalID: 634773308194407693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_26
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1351
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa082d741b23cbc60800000000000000
+      internalID: 7835193188713398447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_27
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1352
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6ce1e6533d995b0800000000000000
+      internalID: -5361021654973626705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_28
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1351
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ac2a1d582ea1f80800000000000000
+      internalID: -8134940712515745181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_29
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1328
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723af229f2f4dba90800000000000000
+      internalID: -7296588755535682777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1351
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2adba49eb1ae810800000000000000
+      internalID: 1795278090255835865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834c4674b1fe8c550800000000000000
+      internalID: 6181453389006947384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_32
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1351
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c8ee953917c09d0800000000000000
+      internalID: -2806743590075724724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1327
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a027a9708c2335930800000000000000
+      internalID: 4130701117931287050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_34
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1351
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6515a356607072c80800000000000000
+      internalID: -8347695660258406058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_35
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1352
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9bdc15c87ffce00800000000000000
+      internalID: 1067343818750015917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_36
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1351
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbd9f3d25d954cf0800000000000000
+      internalID: -268635623689430088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1328
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5925ed65502f533e0800000000000000
+      internalID: -2074485948588076395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_38
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1352
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899b162425a9f2030800000000000000
+      internalID: 3472163515817638296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_39
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1351
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874d76821fa9a5060800000000000000
+      internalID: 6943032136100729976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_40
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1328
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4367efbeaee7e4320800000000000000
+      internalID: 2544110386957678132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_41
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1351
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f6eeb4a2d255ab0800000000000000
+      internalID: -5020056549948756180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_42
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1352
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f53050065300d50800000000000000
+      internalID: 6701414932044537604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_43
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1355
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bd1b5f3707d00f0800000000000000
+      internalID: -1149138686563984615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_44
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1340
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d4ec1e7831983e0800000000000000
+      internalID: -2051086680960643730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_45
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1327
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945411e39df8ebc30800000000000000
+      internalID: 4377094051062695241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_46
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1352
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c019ab4e18c8f2990800000000000000
+      internalID: -7408548372485074676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_47
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1327
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa11cb62b4833f7e0800000000000000
+      internalID: -1732979536183946838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_48
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1347
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4171b937ec911d6c0800000000000000
+      internalID: -4120483809573791980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_49
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1352
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673ec7d1294c6e180800000000000000
+      internalID: -9086359066334403722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_50
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1328
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096dcf60258337370800000000000000
+      internalID: 8319054861639145104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_51
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1328
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08eae6926d8cc4b40800000000000000
+      internalID: 5425932473218281088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_52
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1351
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e2fba8e5c207e90800000000000000
+      internalID: -7030070233759011195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_53
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1328
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee667f38a6f8cf20800000000000000
+      internalID: 3443273117604409059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_54
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1352
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe53539e4c96d850800000000000000
+      internalID: 6401475781646835453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_55
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1328
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ec912761772ee30800000000000000
+      internalID: 4531315113375420009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_56
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1352
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74025ef5166995570800000000000000
+      internalID: 8455955120329662535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_57
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1327
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12de74c1af68a4e40800000000000000
+      internalID: 5641469892009389345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_58
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1352
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210d653326150e660800000000000000
+      internalID: 7413014468861808658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_59
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1351
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df42d199c4c8068a0800000000000000
+      internalID: -6313892416959208195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_60
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1328
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaccde2b68d80f890800000000000000
+      internalID: -7426280175866884950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_61
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1351
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5496c43b9ac6807e0800000000000000
+      internalID: -1799068575021110971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_62
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1344
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53063ea5908d09e30800000000000000
+      internalID: 4508340761689022517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_63
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1328
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d18c880b8829730800000000000000
+      internalID: 4004413310476230003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_64
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1352
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8202b209933d6d770800000000000000
+      internalID: 8635321579714846760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_65
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1347
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a8383f5fec58e00800000000000000
+      internalID: 1046470044181301802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_66
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1327
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2071db35cd809bae0800000000000000
+      internalID: -1533184455752214782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_67
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1351
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132de6c8d7475fbe0800000000000000
+      internalID: -1444120022926568911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_68
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1328
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e9766be89793fa0800000000000000
+      internalID: -5820487389547094522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_69
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1355
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020959fb99765f480800000000000000
+      internalID: -8866066381367046112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_70
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1328
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46092f29ed4418800800000000000000
+      internalID: 612846747037896804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_71
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1351
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a1c3048c554c3a0800000000000000
+      internalID: -6646092831532508601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_72
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1340
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9b7a2b5f8dc4220800000000000000
+      internalID: 2471588845295483362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_73
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1328
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1248c820584dc930800000000000000
+      internalID: 4165064739506373151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_74
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1351
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a7d40c548073050800000000000000
+      internalID: 5780097742425389632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_75
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1328
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce75e430a31a6360800000000000000
+      internalID: 7163559736089345739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_76
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1355
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0014f55da9f22ce60800000000000000
+      internalID: 7980993831705198848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_77
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1351
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27335a479eaf15c0800000000000000
+      internalID: -4242480359149455573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_78
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1328
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9913f67a7157a89d0800000000000000
+      internalID: -2771273876239339111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_79
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1352
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a666102de5ac3c0800000000000000
+      internalID: -4338551034958419417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_80
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1328
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3e4e8e505a43000800000000000000
+      internalID: 14818143589688233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_81
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1351
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50f4d6202bedd2f0800000000000000
+      internalID: -946341823354965922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_82
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1352
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba0f7fcd3f0d5c60800000000000000
+      internalID: 7808414087078939314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_83
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1328
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff54395aaa2ece930800000000000000
+      internalID: 4173960177215817215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_84
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1355
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6beb8065ad20cd210800000000000000
+      internalID: 1358964324328586934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_85
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1351
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459268f69310d07d0800000000000000
+      internalID: -2950700834661979820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_86
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1328
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a8f3cc8601abf30800000000000000
+      internalID: 4592000812347001454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_87
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1352
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4495850b70a341140800000000000000
+      internalID: 4689436916697291076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_88
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1347
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b7dcc1fb3b0f0a0800000000000000
+      internalID: -6849777399827170447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_89
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1328
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8677c6aba3c63d6a0800000000000000
+      internalID: -6425673243835992216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_90
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1352
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04082de09622dfd0800000000000000
+      internalID: -2318748454246415347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_91
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1328
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861e7348602778f40800000000000000
+      internalID: 5730674423165870440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_92
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1351
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245bf41a6a338f8b0800000000000000
+      internalID: -5118284185742625470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_93
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1328
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c9a88e030111f20800000000000000
+      internalID: 3391509796632566843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_94
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1328
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566614dd25dc786d0800000000000000
+      internalID: -2988194071953971611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_95
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1352
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ff4bfe3ff3ca4e0800000000000000
+      internalID: -1969128620136530086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_96
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1327
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ac3700004e447e0800000000000000
+      internalID: -1782048863873152460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_97
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1347
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79528c64c35f7930800000000000000
+      internalID: 4143122285303323006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_98
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1352
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcf5c51ed744b660800000000000000
+      internalID: 7400619106850176213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_99
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1328
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e93f38691278800800000000000000
+      internalID: 614496804501954113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_100
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1351
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76beede3323c2a4e0800000000000000
+      internalID: -1971799130688787609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_101
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1351
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9880b08d4e3f7d0800000000000000
+      internalID: -2885711319665178180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_102
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1327
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f385e8a57bea3e50800000000000000
+      internalID: 6789998278791758837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_103
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1352
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadfce66de8973920800000000000000
+      internalID: 2970010624675610030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_104
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1351
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb59e21635544380800000000000000
+      internalID: -8987965265590789192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_105
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1351
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c988fb929d4cc76e0800000000000000
+      internalID: -1838378110886639460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_106
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1352
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beac0c97466fca450800000000000000
+      internalID: 6101522506580019947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_107
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1327
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66746934a0d4e86c0800000000000000
+      internalID: -4139286301027973274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_108
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa42aaafd6ef62a80800000000000000
+      internalID: -8491820299050146641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_109
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1351
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e58eea6f528d51f0800000000000000
+      internalID: -1054543391407307295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_110
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1328
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0161e35453662ebe0800000000000000
+      internalID: -1449483751078881776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_111
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1351
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509bc1e4e1fadcb70800000000000000
+      internalID: 8920978981585205509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_112
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1351
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d769df7f3002950800000000000000
+      internalID: 6422137432276630897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_113
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1330
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef11976f25aa23f90800000000000000
+      internalID: -6975325599544307202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_114
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1328
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af76730982d32fc50800000000000000
+      internalID: 6697482840280885242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_115
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1353
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a597def086d4c1f60800000000000000
+      internalID: 8006359346897058138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_116
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1351
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8607af9322555ef10800000000000000
+      internalID: 2298336790332469352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_117
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1328
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb7f4c395f059d20800000000000000
+      internalID: 3284548379174992858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_118
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1353
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8dbb1a0629b8a4a0800000000000000
+      internalID: -6581807282372493940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_119
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1328
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01ea710b57434330800000000000000
+      internalID: 3693874575566364939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_120
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1352
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4907b31ad3ac61b0800000000000000
+      internalID: -5661970474482595509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_121
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1347
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afddf4c93a798880800000000000000
+      internalID: -8608214824205295708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_122
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1328
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9672b8cb8fdd3fd40800000000000000
+      internalID: 5617077220646004585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_123
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1341
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51db16bf7ba38590800000000000000
+      internalID: -7673100775104720546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_124
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1351
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0f3d6a0313b6370800000000000000
+      internalID: 8316795221896851696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_125
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1328
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c206666e29e2a1ee0800000000000000
+      internalID: -1289667134822653908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_126
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1351
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab22e64cd09b3440800000000000000
+      internalID: 4916682693961460647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_127
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1352
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824ef38e33baa16f0800000000000000
+      internalID: -713069351556619224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_128
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1327
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc4257feefa86340800000000000000
+      internalID: 4857325639005523160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_129
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1328
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42bed77c81646c30800000000000000
+      internalID: 4351710395881140812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_130
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1352
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedc130be79a49a80800000000000000
+      internalID: -8460951438335291922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_131
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1328
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cea7d317ed26100800000000000000
+      internalID: 99886719699708953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_132
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1347
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79657cc40a3ec15d0800000000000000
+      internalID: -3090344966660598121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_133
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1351
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f63e66a3282fc50800000000000000
+      internalID: 6697558783199244056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_134
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1328
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461e6b9d5b1cd1690800000000000000
+      internalID: -7629729206909869724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_135
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1351
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b95f407d01901d0800000000000000
+      internalID: -3384155129304999140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_136
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1351
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dd7ba64c11c4dc0800000000000000
+      internalID: -3653525662402618005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_137
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1351
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc85d87cdf4183790800000000000000
+      internalID: -7550261695079425841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_138
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1328
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fec5142cdbb2cc0800000000000000
+      internalID: -3734682823955779776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_139
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 944
+        width: 46
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f67d464e94f00b60800000000000000
+      internalID: 7710431522679781104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_140
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1347
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ac182c7a56f79e0800000000000000
+      internalID: -1621465569632859593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_141
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1352
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3635b66751b3551b0800000000000000
+      internalID: -5668559592608803997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_142
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1351
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cc94fbb59da0fc0800000000000000
+      internalID: -3527768370016826214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_143
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1330
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74a5af1608122310800000000000000
+      internalID: 1378690850508612732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_144
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1330
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e232ad2daeb07fe0800000000000000
+      internalID: -1193244250248957209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0cb07eea6e88d40800000000000000
+      internalID: 5586968976628105411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1209
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69076fcf95eebf5e0800000000000000
+      internalID: -1874642749606170474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_147
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1210
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41ca2e4b9b0f50f0800000000000000
+      internalID: -1126168620160073396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_148
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1208
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6457b4a7c95167260800000000000000
+      internalID: 7094882024779642182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_149
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1160
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf11edd5bd60d070800000000000000
+      internalID: 8129117955282771931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_150
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1114
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27494878335f43fa0800000000000000
+      internalID: -5821758816617458574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_151
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1019
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344fc2219595cfed0800000000000000
+      internalID: -2378928264066567101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_152
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 488
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8107589e45d3a6530800000000000000
+      internalID: 3848956266445893656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_153
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 488
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7013cceb42f0a93c0800000000000000
+      internalID: -4352149439405870841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_154
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 488
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1d196f720ebb970800000000000000
+      internalID: 8771851161479270873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_155
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 488
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fcc63d5f8cb6680800000000000000
+      internalID: -8760687691979501714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_156
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 466
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9506e30d49d953860800000000000000
+      internalID: 7509081216184639577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_157
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 466
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453803631973f14f0800000000000000
+      internalID: -855904307358170284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_158
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 466
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ebabb29c7f29480800000000000000
+      internalID: -8893773870709162484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_159
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 443
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90e1d01e87b41870800000000000000
+      internalID: 8652742604880994460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_160
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 443
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12ec47dde4288990800000000000000
+      internalID: -7383610985135939041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_161
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 443
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fc2a0364c95ae20800000000000000
+      internalID: 3361264522179563362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_162
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 443
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e746fa5c3e4825b0800000000000000
+      internalID: -5392974532645074973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_163
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 443
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b279651432c4404e0800000000000000
+      internalID: -2016403018851379413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_164
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 443
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921edfaed3b412490800000000000000
+      internalID: -7772848752557170391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_165
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 443
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51de64609062626f0800000000000000
+      internalID: -709838071062401771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_166
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e53023926f72c560800000000000000
+      internalID: 7332563204664473057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_167
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 415
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf084397f3678fc0800000000000000
+      internalID: -3492713071023484988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_168
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 415
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8014ab6f5d52e0ed0800000000000000
+      internalID: -2445975946717937400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_169
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 415
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41361efee02579580800000000000000
+      internalID: -8820491121074281708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_170
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 415
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b8351467e7b7080800000000000000
+      internalID: -9188611568352130175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_171
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 415
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6907dc3bd22304fb0800000000000000
+      internalID: -4665674042084331370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_172
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 415
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b66fceb9b021020800000000000000
+      internalID: 2310922323117894405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_173
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 415
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa2b753f7345f6c0800000000000000
+      internalID: -4110304871268537615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_174
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 415
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b39a4111bdcbe30800000000000000
+      internalID: 4520728992380697423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_175
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 416
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac5a4d03ca926c20800000000000000
+      internalID: 3198288847918750882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_176
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 107
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0803fb045f238550800000000000000
+      internalID: 6161820753197205517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 106
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa87935d75535610800000000000000
+      internalID: 1608723488663112365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_178
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 106
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f66f30ab1b653560800000000000000
+      internalID: 7292852937993185016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_179
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 106
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7800c24e94468a330800000000000000
+      internalID: 3722335360545194119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_180
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 82
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c126d34d3b54aefc0800000000000000
+      internalID: -3464880324645920228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_181
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7ae09342ccf92f0800000000000000
+      internalID: -963827339285846020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_182
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 48
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6da35907c200020800000000000000
+      internalID: 2305891871265314502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_183
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c96aac30c7fc990800000000000000
+      internalID: -7363530510000808900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_184
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb0034531cdcb0f0800000000000000
+      internalID: -1099762233410319379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_185
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0439c7b1ceccd9d50800000000000000
+      internalID: 6745773131316368192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_186
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 31
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8791b312fc96d6c0800000000000000
+      internalID: -4118932245657315443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_187
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660ee8cd3dc2a37c0800000000000000
+      internalID: -4090908023062601626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_188
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 31
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf144b8f47c44fb0800000000000000
+      internalID: -4664384169596149827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_189
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 31
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723c9efb565912e10800000000000000
+      internalID: 2171180759613293351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_190
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 31
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3897b8c35c51f3e90800000000000000
+      internalID: -7043887355315652221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_191
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b82af510d13eda60800000000000000
+      internalID: 7700647182641801401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_192
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 31
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22aaeb6fdd8613610800000000000000
+      internalID: 1599174645229988386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_193
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f1b943bbefa7e70800000000000000
+      internalID: 9113876875932540722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_194
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 31
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acb3a082536ab8c0800000000000000
+      internalID: -3982761714459099996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_195
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0df1c934ff80670800000000000000
+      internalID: 8505328562136404128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_196
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 31
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002c20d6c81994d90800000000000000
+      internalID: -7112994104144641536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_197
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cc740eb681f0240800000000000000
+      internalID: 4760050182757272677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_198
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 31
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f57057a12ddcea0800000000000000
+      internalID: -5850789329810006174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_199
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772a6786b3f3a3200800000000000000
+      internalID: 160510261113299575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_200
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 31
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7c5140b607b7b20800000000000000
+      internalID: 3133221570698659827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_201
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8413726ccfa8710800000000000000
+      internalID: 1696446137649678519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_202
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 31
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93b0a9bcef9a1060800000000000000
+      internalID: 6925023216110973853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_203
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f17583ef732d2c0800000000000000
+      internalID: -4408399520235839591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_204
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8591bd24580f5a7c0800000000000000
+      internalID: -4060575033861662376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_205
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 31
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1df0e759b9d37f0800000000000000
+      internalID: -631177306394603042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_206
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8716c2f5edd040c0800000000000000
+      internalID: -4593427640227588212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_207
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a401ca5af000b6a0800000000000000
+      internalID: -6435642792248015712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_208
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cc071456a249090800000000000000
+      internalID: -8028745621316776926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_209
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330cca71fff35f850800000000000000
+      internalID: 6410100009478176819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_210
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ab3f1765adc7d70800000000000000
+      internalID: 9042342216666954398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_211
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecf38cc2a62ea460800000000000000
+      internalID: 7254778530398207200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_212
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 31
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756d6d940ea770100800000000000000
+      internalID: 74163022604981847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_213
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a9ca5df1e66a160800000000000000
+      internalID: 7036432550820878949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_214
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 31
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7826fd131d63d70800000000000000
+      internalID: 9022628915614746597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_215
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9d58750645282b0800000000000000
+      internalID: -5583807815224010244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_216
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393aff43c3444e0e0800000000000000
+      internalID: -2241591689145769069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_217
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 31
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f363be0e796590a0800000000000000
+      internalID: -6875473265977760778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_218
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200912b9ed6530510800000000000000
+      internalID: 1514149413812015106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_219
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356e9ccf7fe5c0b80800000000000000
+      internalID: -8427256383526017453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_220
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 31
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce566b68d40f74ca0800000000000000
+      internalID: -6032588960076241428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_221
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782ecdc35f1c0d060800000000000000
+      internalID: 6976289081829155463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_222
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baa9b3510b65ed30800000000000000
+      internalID: 4460088659424160432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_223
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22184cd63a7364bd0800000000000000
+      internalID: -2646366555972796126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_224
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 31
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992d7d16d1461d830800000000000000
+      internalID: 4094163613614854809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_225
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a459f8300edf1520800000000000000
+      internalID: 2675100796218594472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_226
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b5b7aefcd052c90800000000000000
+      internalID: -7195329643011155171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_227
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95d38288d003ee60800000000000000
+      internalID: 7990231093788005787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_228
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a79457c17494f9f0800000000000000
+      internalID: -435560047551670364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_229
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697b7e2b82d5a9420800000000000000
+      internalID: 2637522961160451990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_230
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db987ba09ab5d2ac0800000000000000
+      internalID: -3878342922508727875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_231
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201a220577b77ae20800000000000000
+      internalID: 3361791399231136002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_232
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 31
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4542ff4392530fd50800000000000000
+      internalID: 6768968691036922964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_233
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f880e7e934e5ad040800000000000000
+      internalID: 4673151207865190543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_234
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06a0afb61cd8ba20800000000000000
+      internalID: 3078452335570101774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_235
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 31
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e555712a46ff3a0800000000000000
+      internalID: -6629469479127130499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_236
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd9ec921d2c729e0800000000000000
+      internalID: -1646132935175266824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_237
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03437d6d673debf30800000000000000
+      internalID: 4593341177328514096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_238
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31ba57a2e840adf0800000000000000
+      internalID: -171056647532531393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_239
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 11
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e63024205cd3d90800000000000000
+      internalID: -7116315222687388116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_240
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 8
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba734c14fb137450800000000000000
+      internalID: 6085238256767826619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_241
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 11
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cdfa797fa13e7f0800000000000000
+      internalID: -584593875923903459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_242
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 11
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d82d9b915afb120800000000000000
+      internalID: 2431843853713706384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard sin letras_243
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f66bb7a09bb0350800000000000000
+      internalID: 5984079984568201068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
