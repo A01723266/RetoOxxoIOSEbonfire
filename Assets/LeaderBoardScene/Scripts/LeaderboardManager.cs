@@ -1,10 +1,12 @@
 using UnityEngine;
 using UnityEngine.UI;
 using System;
+using UnityEditor.SceneManagement;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.Networking;
 using Newtonsoft.Json;
+using UnityEngine.SceneManagement;
 
 public class LeaderboardManager : MonoBehaviour
 {
@@ -13,12 +15,13 @@ public class LeaderboardManager : MonoBehaviour
     public Text[] usernameTexts;    // Array de 5 textos para nombres
     public Text[] pointsTexts;      // Array de 5 textos para puntos
     public Text currentPositionText; // Texto para mostrar la posición actual del jugador
-    private int userId;             // ID del usuario actual
+    private int userId;           // ID del usuario actual
+    private string PName;        //Nombre del Usuario actual
 
     void Start()
     {
-        //userId = PlayerPrefs.GetInt("UserId");
-        userId = 1;
+        userId = PlayerPrefs.GetInt("UserId");
+        PName = PlayerPrefs.GetString("Nombre");
         StartCoroutine(LoadLeaderboard());
     }
 
@@ -59,16 +62,22 @@ public class LeaderboardManager : MonoBehaviour
         {
             if (entries[i].UserId == userId)
             {
-                currentPositionText.text = $"Tu posición actual es: #{i + 1}";
+                currentPositionText.text = $"{PName} tu posición actual es: #{i + 1}";
                 return;
             }
         }
         currentPositionText.text = "Tu posición: Sin clasificar";
     }
 
+
+    public void GoLogin()
+    {
+        SceneManager.LoadScene("LogInScene");
+    }
+
 }
 
-[System.Serializable]
+
 public class LeaderboardEntry
 {
     public int UserId;
