@@ -8,7 +8,7 @@ using Newtonsoft.Json;
 
 public class LeaderboardManager : MonoBehaviour
 {
-    private const string API_URL = "https://localhost:7215/Leaderboard";
+    private const string API_URL = "https://10.22.134.248:7215/Leaderboard";
 
     public Text[] usernameTexts;    // Array de 5 textos para nombres
     public Text[] pointsTexts;      // Array de 5 textos para puntos
