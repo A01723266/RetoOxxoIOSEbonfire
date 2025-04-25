@@ -945,7 +945,7 @@ MonoBehaviour:
   usernameInput: {fileID: 799093234}
   passwordInput: {fileID: 1902929108}
   loginButton: {fileID: 2064085858}
-  errorText: {fileID: 0}
+  errorText: {fileID: 1734289818}
 --- !u!1 &1710646169
 GameObject:
   m_ObjectHideFlags: 0
@@ -1075,7 +1075,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.9308176, g: 0.9308176, b: 0.9308176, a: 1}
+  m_Color: {r: 0.78616345, g: 0.78616345, b: 0.78616345, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1

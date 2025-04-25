@@ -12,7 +12,7 @@ public class LoginManager : MonoBehaviour
     public Button loginButton;
     public Text errorText;
     
-    private const string API_URL = "https://10.22.134.248:7220/Login";
+    private const string API_URL = "https://192.168.1.168:7215/Login";
 
     void Start()
     {
@@ -46,7 +46,7 @@ public class LoginManager : MonoBehaviour
         if (web.result != UnityWebRequest.Result.Success)
         {
             errorText.text = "Error de conexión";
-            errorText.color = new Color(0.624f, 0f, 0f); // RGB con valores entre 0 y 1
+            errorText.color = new Color(0.03429448f, 0.06627505f, 0.6415094f); // RGB con valores entre 0 y 1
         }
         else
         {
@@ -57,11 +57,12 @@ public class LoginManager : MonoBehaviour
                 PlayerPrefs.SetString("Username", response.Username);
                 PlayerPrefs.SetString("Nombre", response.Nombre);
                 PlayerPrefs.Save();
-                SceneManager.LoadScene("MenuScene");
+                SceneManager.LoadScene("LeaderBoardScene");
             }
             else
             {
                 errorText.text = "Usuario o contraseña incorrectos";
+                errorText.color = new Color(0.624f, 0f, 0f); // RGB con valores entre 0 y 1
             }
         }
     }
