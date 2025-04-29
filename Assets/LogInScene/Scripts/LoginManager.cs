@@ -12,7 +12,7 @@ public class LoginManager : MonoBehaviour
     public Button loginButton;
     public Text errorText;
     
-    private const string API_URL = "https://192.168.1.168:7215/Login";
+    private const string API_URL = "https://apiios.replit.app/api/Login";
 
     void Start()
     {

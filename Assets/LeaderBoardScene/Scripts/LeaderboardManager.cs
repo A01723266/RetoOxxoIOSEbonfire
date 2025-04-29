@@ -10,7 +10,7 @@ using UnityEngine.SceneManagement;
 
 public class LeaderboardManager : MonoBehaviour
 {
-    private const string API_URL = "https://192.168.1.168:7215/Leaderboard";
+    private const string API_URL = "https://apiios.replit.app/api/Leaderboard";
 
     public Text[] usernameTexts;    // Array de 5 textos para nombres
     public Text[] pointsTexts;      // Array de 5 textos para puntos
