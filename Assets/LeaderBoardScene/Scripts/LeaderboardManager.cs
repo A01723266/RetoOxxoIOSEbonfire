@@ -1,7 +1,5 @@
 using UnityEngine;
 using UnityEngine.UI;
-using System;
-using UnityEditor.SceneManagement;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.Networking;
